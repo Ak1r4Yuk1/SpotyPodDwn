@@ -1,4 +1,7 @@
 ## SPOTIFY PODCAST DOWNLOADER
 
-![Screen]([/posts/path/to/img.jpg](https://github.com/Ak1r4Yuk1/SpotyPodDwn/blob/main/Screenshot_20221106_030454.png) "Screen")
-
+<img
+  src="Screenshot_20221106_030454.png"
+  alt="Screen"
+  title="Scren"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
